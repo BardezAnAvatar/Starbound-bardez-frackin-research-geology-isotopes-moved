@@ -26,7 +26,7 @@
   //enriched isotopes
   {
     "op" : "replace",
-    "path" : "/researchTree/fu_geology/isotopes_enriched/position/0", 
-    "value" : 30
+    "path" : "/researchTree/fu_geology/isotopes_enriched/position", 
+    "value" : [-60, 120 ]
   }
 ]
