@@ -3,7 +3,7 @@
   {
     "op" : "replace",
     "path" : "/researchTree/fu_geology/isotopes1/position/0", 
-    "value" : -40
+    "value" : -80
   },
   //uranium
   {
@@ -15,13 +15,13 @@
   {
     "op" : "replace",
     "path" : "/researchTree/fu_geology/isotopes3/position/0", 
-    "value" : -80
+    "value" : -120
   },
   //thorium
   {
     "op" : "replace",
     "path" : "/researchTree/fu_geology/isotopes4/position/0", 
-    "value" : -80
+    "value" : -120
   },
   //enriched isotopes
   {
