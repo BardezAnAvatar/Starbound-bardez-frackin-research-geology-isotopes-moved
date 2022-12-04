@@ -8,8 +8,8 @@
   //uranium
   {
     "op" : "replace",
-    "path" : "/researchTree/fu_geology/isotopes2/position/0", 
-    "value" : 0
+    "path" : "/researchTree/fu_geology/isotopes2/position", 
+    "value" : [ -40, 80 ]
   },
   //neptunium
   {
