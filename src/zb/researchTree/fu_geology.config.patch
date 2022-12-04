@@ -28,5 +28,12 @@
     "op" : "replace",
     "path" : "/researchTree/fu_geology/isotopes_enriched/position", 
     "value" : [-60, 120 ]
+  },
+  /* children */
+  //plutonium
+  {
+    "op" : "add",
+    "path" : "/researchTree/fu_geology/isotopes1/children/-", 
+    "value" : "isotopes_enriched"
   }
 ]
