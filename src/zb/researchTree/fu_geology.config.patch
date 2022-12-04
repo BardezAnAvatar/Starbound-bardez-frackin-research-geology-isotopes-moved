@@ -1,0 +1,39 @@
+[
+  //plutonium
+  {
+    "op" : "replace",
+    "path" : "/researchTree/fu_geology/isotopes1/position/0", 
+    "value" : -80
+  },
+  //uranium
+  {
+    "op" : "replace",
+    "path" : "/researchTree/fu_geology/isotopes2/position", 
+    "value" : [ -40, 80 ]
+  },
+  //neptunium
+  {
+    "op" : "replace",
+    "path" : "/researchTree/fu_geology/isotopes3/position/0", 
+    "value" : -120
+  },
+  //thorium
+  {
+    "op" : "replace",
+    "path" : "/researchTree/fu_geology/isotopes4/position/0", 
+    "value" : -120
+  },
+  //enriched isotopes
+  {
+    "op" : "replace",
+    "path" : "/researchTree/fu_geology/isotopes_enriched/position", 
+    "value" : [-60, 120 ]
+  },
+  /* children */
+  //plutonium
+  {
+    "op" : "add",
+    "path" : "/researchTree/fu_geology/isotopes1/children/-", 
+    "value" : "isotopes_enriched"
+  }
+]
