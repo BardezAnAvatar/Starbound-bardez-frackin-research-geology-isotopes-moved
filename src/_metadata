@@ -1,0 +1,8 @@
+{
+  "author" : "Bardez",
+  "friendlyName" : "Frackin' Universe Research: Move Isotopes in Geology off to the left",
+  "includes" : ["FrackinUniverse"],
+  "name" : "bardez-frackin-research-geology-isotopes-moved",
+  "tags" : "Miscellaneous",
+  "version" : "0.1.0"
+}
